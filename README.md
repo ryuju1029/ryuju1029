@@ -14,4 +14,4 @@
 
 # 職務経歴書
 
-- [PDF](https://github.com/ryuju1029/ryuju1029/tree/main/docs#readme/)
+- [PDF](https://github.com/ryuju1029/ryuju1029/blob/main/docs/README.pdf/)
