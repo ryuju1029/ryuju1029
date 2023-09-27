@@ -8,7 +8,7 @@
   </p>
 
 - 受託会社で勤務しています。
-- 技術スタックは Javascript.TypeScript.Go
+- 技術スタックは Javascript.TypeScript.Go になります。
 
 # 職務経歴書
 
