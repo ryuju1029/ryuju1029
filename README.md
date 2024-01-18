@@ -7,7 +7,7 @@
     <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ryuju1029&theme=onedark&show_icons=true&count_private=true"/>
   </p>
 
-- 受託会社で勤務しています。
+- 都内の自社開発企業で勤務しています。
 - 技術スタックは Javascript.TypeScript.Go になります。
 
 # 職務経歴書
