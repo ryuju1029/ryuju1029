@@ -223,5 +223,6 @@
     - React・Next.js
     - TypeScript
   - 具体的なタスクは次の通り
+    - ページの作成
     - OpenAI が提供する API を使用してチャット機能の作成
     - nodemailer を用いたメール送信機能
