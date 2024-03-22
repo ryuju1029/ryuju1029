@@ -1,7 +1,7 @@
 # 基本情報
 
 - 都内の自社開発企業で勤務しています。
-- 技術スタックは Javascript.TypeScript.Go になります。
+- 技術スタックは Javascript.TypeScript.Go.Python になります。
 
 # 職務経歴書
 
