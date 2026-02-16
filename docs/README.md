@@ -7,10 +7,10 @@
 ## スキル
 
 - 言語
-  - JavaScript・TypeScript・Go・Python
+  - JavaScript・TypeScript・Go・Python・Ruby
 
 - フレームワーク等
-  - React・Next.js
+  - React・Next.js・Rails
 
 - RDB
   - MySQL
