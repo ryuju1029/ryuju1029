@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "build:pdf": "md-to-pdf docs/README.md --config-file ./pdf-configs/config.js",
+    "build:pdf": "PUPPETEER_EXECUTABLE_PATH=\"/Applications/Google Chrome.app/Contents/MacOS/Google Chrome\" md-to-pdf docs/README.md --config-file ./pdf-configs/config.js",
     "lint": "textlint . && markdownlint *.md **/*.md"
   },
   "repository": "https://github.com/ryuju1029/ryuju1029.git",
